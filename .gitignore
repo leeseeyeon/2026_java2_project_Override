@@ -1,0 +1,19 @@
+# 빌드 결과물
+target/
+bin/
+*.class
+
+# Eclipse (Maven 프로젝트로 import하므로 무시)
+.metadata/
+.project
+.classpath
+.settings/
+.factorypath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 개인 설정·비밀번호
+db.properties
+*.log
